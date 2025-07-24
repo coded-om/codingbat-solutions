@@ -9,7 +9,7 @@ public class nearHundred {
         } 
         else {
             return false;
-            }
+        }
 }
     
 }
