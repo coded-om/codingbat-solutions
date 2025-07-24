@@ -7,9 +7,7 @@ public class ParrotTrouble {
         if ((hour > 20 || hour < 7) && talking) {
             return true;
         }
-
         return false;
-
 }
     
 }
