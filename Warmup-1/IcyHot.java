@@ -1,6 +1,6 @@
 public class IcyHot {
         public static void main(String[] args) {
-        System.out.println(icyHot(-5, 120));  // true
+        System.out.println(icyHot(-5, 120));  
         System.out.println(icyHot(-5, 90));   
     }
 
