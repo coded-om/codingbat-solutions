@@ -6,7 +6,7 @@ public class EveryNth {
     public static String everyNth(String str, int n) {
         String result = "";
         int i = 0;
-        while (i < str.length()) {
+        while (i< str.length()) {
             result += str.charAt(i);
             i += n;
     }
