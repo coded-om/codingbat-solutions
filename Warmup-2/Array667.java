@@ -16,6 +16,7 @@ public class Array667 {
                     count++;
                 }
             }
+            
         }
         return count;
     }
