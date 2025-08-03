@@ -14,9 +14,9 @@ public class XyzThere {
     public static void main(String[] args) {
         XyzThere obj = new XyzThere();
 
-        System.out.println(obj.xyzThere("abcxyz"));     // → true
-        System.out.println(obj.xyzThere("abc.xyz"));    // → false
-        System.out.println(obj.xyzThere("xyz.abc"));    // → true
+        System.out.println(obj.xyzThere("abcxyz"));    
+        System.out.println(obj.xyzThere("abc.xyz"));    
+        System.out.println(obj.xyzThere("xyz.abc"));    
     }
 }
 
