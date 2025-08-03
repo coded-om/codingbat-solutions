@@ -1,10 +1,11 @@
-public int[] fizzArray(int n) {
-int[] result = new int[n];
+class FizzArray {
+    public int[] fizzArray(int n) {
+        int[] result = new int[n];
         for (int i = 0; i < n; i++) {
             result[i] = i;
         }
         return result;
-}
+    }
 
     public static void main(String[] args) {
         FizzArray obj = new FizzArray();
