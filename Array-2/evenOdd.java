@@ -13,9 +13,6 @@ public class EvenOdd {
             }
         }
 
-        // Optional: reverse the odd part to keep original order (if needed)
-        // But per the problem, order doesn't matter, so we can skip it.
-
         return result;
     }
 
